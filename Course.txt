@@ -50,3 +50,8 @@ Rename file :
 
 Delete file : 
 	git rm file_name
+
+
+
+
+hello
