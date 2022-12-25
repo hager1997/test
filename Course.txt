@@ -1,0 +1,52 @@
+Git course
+
+
+Create file : 	
+	touch fileName.txt
+
+
+Download Git :
+	https://git-scm.com/
+Git
+
+Check version :
+	git —version
+
+Create database:
+	git init
+
+Set username and mail
+	git config user.name Hager Samir
+	git config user.email hagersamir477@gmail.com
+
+
+Show status : 
+	git status 
+
+Add file :
+	git add filename
+
+Commit :
+	git commit -m “message” 
+
+Restore commit from staged to modified  :
+	git restore —stage fileName
+
+
+Git different between modified and commit state :
+	git dif
+
+Git different between staged and commit state :
+	git dif —stage
+
+Get history :
+	git log
+
+Check out :
+	git checkout SHA1
+
+Rename file :
+	git mv old_name new-name
+
+Delete file : 
+	git rm file_name
